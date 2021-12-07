@@ -8,3 +8,7 @@ Escaneie textos e traduza eles usando python!
     $ pip install opencv-python
     $ pip install deep-translator
 ```
+## Como Usar
+
+### Por sua imagem aqui
+<image src="./imagens/Capturar.PNG">
