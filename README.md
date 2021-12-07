@@ -1,4 +1,4 @@
-# ocr_translation_python
+# OCR Translator Python
 Scan and translate text with Python!
 Escaneie textos e traduza eles usando python!
 
