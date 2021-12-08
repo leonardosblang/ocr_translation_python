@@ -8,6 +8,9 @@ Escaneie textos e traduza eles usando python!
     $ pip install opencv-python
     $ pip install deep-translator
 ```
+
+OPS : Necessário também baixar o tesseract e colocá-lo como varíavel de ambiente : https://digi.bib.uni-mannheim.de/tesseract/
+
 ## Como Usar e Funcionamento
 
 ### Escolher uma imagem
