@@ -17,4 +17,13 @@ Escaneie textos e traduza eles usando python!
 ### Por sua imagem aqui
     
 <image src="./imagens/Capturar.PNG">
+    
+### Imagem escaneada
+    
+<image src="./imagens/imagem.png">
+   
+### Imagem traduzida
+    
+ <image src="./imagens/imagem3.png">
+    
    
